@@ -1,0 +1,37 @@
+Tabular Project
+
+step 1: Analyse Requerment
+ a. collect requerment
+ b.choose right chart
+ c.drow mockups
+ d.choose colore
+
+step 2: Build data sourch
+ a.connect data
+ b.create data model
+ c.rename fields and tables
+ d.check data types
+ e.understand data 
+
+step3: Build charts
+ a.create calculeted fields and test
+ b.build chart
+ c.format
+  c.1. remove lines and grids
+  c.2.cleanup axis and headers
+  c.3.coloring
+  c.4.Toohips
+
+step 4:Build dashboard
+ a.Draw Mockp for Container
+ b.Create Container Structure
+ c. Put all charts Together
+ d.put all charts Together
+ e.format
+  e.1.Distribute object evenly
+  e.2.Format colors , size etc
+  e.3.Add legends
+  e.4.add Spaces (outer padding )etc
+
+f. add filters and dynamic
+g.add icons
